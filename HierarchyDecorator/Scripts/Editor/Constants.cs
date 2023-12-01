@@ -13,8 +13,8 @@ namespace HierarchyDecorator
 
         public const string SETTINGS_PATH = "Hierarchy Decorator";
 
-        public const string SETTINGS_ASSET_PATH = "Assets/HierarchyDecorator/Settings.asset";
-        public const string SETTINGS_ASSET_FOLDER = "Assets/HierarchyDecorator/";
+        public const string SETTINGS_ASSET_PATH = "Assets/Packages/HierarchyDecorator/Settings.asset";
+        public const string SETTINGS_ASSET_FOLDER = "Assets/Packages/HierarchyDecorator/";
 
         // ====== Colours ======
 
